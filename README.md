@@ -1,4 +1,4 @@
 # adrika-demo
 this is my Git Repository
 <br>
-author-Adrika 
+author-Adrika (my project) 
